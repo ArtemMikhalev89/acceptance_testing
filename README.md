@@ -9,6 +9,5 @@ gem 'acceptance_testing'
 ```
 
 ## Example of project settings
-```
-https://github.com/ArtemMikhalev89/Auto_testing_project
-```
+
+[Auto_testing_project](https://github.com/ArtemMikhalev89/Auto_testing_project)
