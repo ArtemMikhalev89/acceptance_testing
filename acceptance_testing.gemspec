@@ -28,6 +28,6 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "selenium-webdriver", "~> 2.53.4"
   spec.add_runtime_dependency "site_prism", "~> 2.9"
   spec.add_runtime_dependency "require_all", "~> 1.3.3"
+  spec.add_runtime_dependency "pry-byebug", "~> 3.4.0"
   spec.add_development_dependency "bundler", "~> 1.14"
-  spec.add_development_dependency "pry-byebug", "~> 3.4.0"
 end
