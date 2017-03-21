@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "rspec", "~> 3.4.0"
   spec.add_runtime_dependency "turnip", "~> 3.0.0.pre.beta.5"
   spec.add_runtime_dependency "capybara", "~> 2.6.2"
-  spec.add_runtime_dependency "webdrivers", "~> 2.3"
+  spec.add_runtime_dependency "chromedriver-helper", "~> 1.1.0"
   spec.add_runtime_dependency "selenium-webdriver", "~> 2.53.4"
   spec.add_runtime_dependency "site_prism", "~> 2.9"
   spec.add_runtime_dependency "require_all", "~> 1.3.3"
