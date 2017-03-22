@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency "rake", "~> 12.0.0"
-  spec.add_runtime_dependency "rspec", "~> 3.5"
+  spec.add_runtime_dependency "rspec", "~> 3.4"
   spec.add_runtime_dependency "turnip", "~> 3.0.0.pre.beta.5"
   spec.add_runtime_dependency "capybara", "~> 2.13"
   spec.add_runtime_dependency "chromedriver-helper", "~> 1.1.0"
