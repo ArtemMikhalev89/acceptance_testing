@@ -21,13 +21,13 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency "rake", "~> 12.0.0"
-  spec.add_runtime_dependency "rspec", "~> 3.4.0"
+  spec.add_runtime_dependency "rspec", "~> 3.5"
   spec.add_runtime_dependency "turnip", "~> 3.0.0.pre.beta.5"
-  spec.add_runtime_dependency "capybara", "~> 2.6.2"
+  spec.add_runtime_dependency "capybara", "~> 2.13"
   spec.add_runtime_dependency "chromedriver-helper", "~> 1.1.0"
-  spec.add_runtime_dependency "selenium-webdriver", "~> 2.53.4"
+  spec.add_runtime_dependency "selenium-webdriver", "~> 3.3"
   spec.add_runtime_dependency "site_prism", "~> 2.9"
-  spec.add_runtime_dependency "require_all", "~> 1.3.3"
+  spec.add_runtime_dependency "require_all", "~> 1.4"
   spec.add_runtime_dependency "pry-byebug", "~> 3.4.0"
   spec.add_development_dependency "bundler", "~> 1.14"
 end
